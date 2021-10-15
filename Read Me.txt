@@ -1,0 +1,15 @@
+In this project we are going to study different heuristics applicable to 8 puzzle problem.
+These heuristics are as follows
+
+    1.Number of misplaced tiles.
+    2.Sum of Manhattan distance. 
+    3.Least cost branch and bound.
+    4.Linear conflict heuristic.
+    5.Number of tiles out of row + Number of tiles out of column
+    6.n Max swap
+    7.n swap
+
+Above mentioned all are the admissible heuristics which are usefull to solve 8 puzzle problem.
+So our aim is to analyse all these heuristic methods with respect to each other.
+
+
