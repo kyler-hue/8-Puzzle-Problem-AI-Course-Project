@@ -3,6 +3,7 @@
 #include"declarations.h"
 
 
+
 int main()
 {
     std::cout<<"----------- The 8 Puzzle Problem -----------\n\n\n"<<std::endl ;
